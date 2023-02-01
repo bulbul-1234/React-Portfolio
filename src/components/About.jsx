@@ -9,14 +9,14 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
                 </div>
                 <p className="text-xl mt-20">
-                    Hi Everyone,This is Bulbul Rani, a frontend Engineer, a-part time Model(:p) and a complete Entertainer. I have a 4.3 years of experience in frontend.
-
+                    Hi Everyone,This is Bulbul Rani, a frontend Engineer and a complete Entertainer. I have experience in HTML, CSS, JS, BOOTSTRAP, TAILWIND, ANGULAR & REACT. I have in-total of 4.3 years of work experience in IT. I am eager to learn new technologies and intresting things.
                 </p>
+                <ul className="mt-6 text-2xl font-bold inline">Hobbies-
+                    <li className="text-xl mt-2 font-normal">Playing Badminton</li>
+                    <li className="text-xl font-normal">Cooking</li>
+                    <li className="text-xl font-normal">Clicked</li>
+                </ul>
                 <br/>
-                <p className="text-xl">
-                Hi Everyone,This is Bulbul Rani, a frontend Engineer, a-part time Model(:p) and a complete Entertainer.I have a 4.3 years of experience in frontend.
- 
-                </p>
             </div>
         </div>
     )
